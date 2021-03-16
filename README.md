@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Axel0819
 - 👀 I'm interested to learn anything about programming on the net
-- 🌱 I’m currently learning algorithms and data structures, backend (PHP and Javascript), frontend(React)...
+- 🌱 I’m currently learning algorithms and data structures and best practice for coding
 - 💞️ I’m looking to collaborate on open source projects to help me to learn more about programming and best practice for coding
 - 📫 How to reach me: chavarriamontoyaaxel@gmail.com
 
