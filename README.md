@@ -4,7 +4,7 @@
 - 📫 How to reach me: chavarriamontoyaaxel@gmail.com
 
 Technologies:
-SQL GIT PYTHON PHP🔑
+SQL GIT PYTHON JavaScript🔑
 <!---
 Axel0819/Axel0819 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
