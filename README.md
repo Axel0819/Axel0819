@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Axel0819
 - 👀 I'm interested to learn anything about programming on the net
-- 🌱 I’m currently learning algorithms and data structures and best practice for coding
+- 🌱 I’m currently learning algorithms, data structures and best practice for coding
 - 📫 How to reach me: chavarriamontoyaaxel@gmail.com
 
 Technologies:
